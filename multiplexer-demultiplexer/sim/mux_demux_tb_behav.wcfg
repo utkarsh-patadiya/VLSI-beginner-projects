@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="mux_demux_tb_behav.wdb" id="1">
+         <top_modules>
+            <top_module name="glbl" />
+            <top_module name="mux_demux_tb" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <zoom_setting>
+      <ZoomStartTime time="0.000 ns"></ZoomStartTime>
+      <ZoomEndTime time="140.001 ns"></ZoomEndTime>
+      <Cursor1Time time="140.000 ns"></Cursor1Time>
+   </zoom_setting>
+   <column_width_setting>
+      <NameColumnWidth column_width="206"></NameColumnWidth>
+      <ValueColumnWidth column_width="84"></ValueColumnWidth>
+   </column_width_setting>
+   <WVObjectSize size="15" />
+   <wvobject fp_name="/mux_demux_tb/a" type="logic">
+      <obj_property name="ElementShortName">a</obj_property>
+      <obj_property name="ObjectShortName">a</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/b" type="logic">
+      <obj_property name="ElementShortName">b</obj_property>
+      <obj_property name="ObjectShortName">b</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/sel" type="logic">
+      <obj_property name="ElementShortName">sel</obj_property>
+      <obj_property name="ObjectShortName">sel</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/enable" type="logic">
+      <obj_property name="ElementShortName">enable</obj_property>
+      <obj_property name="ObjectShortName">enable</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/out_mux_2x1" type="logic">
+      <obj_property name="ElementShortName">out_mux_2x1</obj_property>
+      <obj_property name="ObjectShortName">out_mux_2x1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/In_4x1" type="array">
+      <obj_property name="ElementShortName">In_4x1[3:0]</obj_property>
+      <obj_property name="ObjectShortName">In_4x1[3:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Sel_4x1" type="array">
+      <obj_property name="ElementShortName">Sel_4x1[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Sel_4x1[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/out_mux_4x1" type="logic">
+      <obj_property name="ElementShortName">out_mux_4x1</obj_property>
+      <obj_property name="ObjectShortName">out_mux_4x1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/In_1x2" type="logic">
+      <obj_property name="ElementShortName">In_1x2</obj_property>
+      <obj_property name="ObjectShortName">In_1x2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Sel_1x2" type="logic">
+      <obj_property name="ElementShortName">Sel_1x2</obj_property>
+      <obj_property name="ObjectShortName">Sel_1x2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Out0_demux_1x2" type="logic">
+      <obj_property name="ElementShortName">Out0_demux_1x2</obj_property>
+      <obj_property name="ObjectShortName">Out0_demux_1x2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Out1_demux_1x2" type="logic">
+      <obj_property name="ElementShortName">Out1_demux_1x2</obj_property>
+      <obj_property name="ObjectShortName">Out1_demux_1x2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/In_1x4_demux" type="logic">
+      <obj_property name="ElementShortName">In_1x4_demux</obj_property>
+      <obj_property name="ObjectShortName">In_1x4_demux</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Sel_1x4_demux" type="array">
+      <obj_property name="ElementShortName">Sel_1x4_demux[1:0]</obj_property>
+      <obj_property name="ObjectShortName">Sel_1x4_demux[1:0]</obj_property>
+   </wvobject>
+   <wvobject fp_name="/mux_demux_tb/Out_demux_1x4" type="array">
+      <obj_property name="ElementShortName">Out_demux_1x4[3:0]</obj_property>
+      <obj_property name="ObjectShortName">Out_demux_1x4[3:0]</obj_property>
+   </wvobject>
+</wave_config>
