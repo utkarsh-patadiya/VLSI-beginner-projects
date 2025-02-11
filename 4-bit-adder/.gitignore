@@ -1,1 +1,11 @@
-ECHO is on.
+*.Xil
+*.cache
+*.hw
+*.ip_user_files
+*.runs
+*.sim
+*.gen
+*.log
+*.jou
+*.str
+*.tmp
